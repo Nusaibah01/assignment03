@@ -9,3 +9,27 @@
     font-family: "Playfair Display", 'Times New Roman', Times, serif;
     text-align: center;
 }
+body{
+    background-image: url(https://nusaibah01.github.io/all-images/images/bg_img.jpg) ;
+}
+h1,h2{
+
+    color: plum;
+}
+button{
+    size: 300px;
+    background-color: plum;
+    color: palevioletred;
+    width: 100px;
+    height: 100px;
+    font-family: "Playfair Display", 'Times New Roman', Times, serif
+}
+input{
+    background-color: pink;
+    border-color: palevioletred;
+    width: 610px ;
+    padding: 30px;
+    margin: 30px;
+    border: rosybrown;
+    font-family: "Playfair Display", 'Times New Roman', Times, serif
+}
